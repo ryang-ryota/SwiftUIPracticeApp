@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A30F582C249E187200DEDD8A /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30F582B249E187200DEDD8A /* TimerView.swift */; };
+		A30F586E249EE9D100DEDD8A /* StopwatchClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30F586D249EE9D100DEDD8A /* StopwatchClass.swift */; };
+		A30F5870249EE9FC00DEDD8A /* StopwatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30F586F249EE9FC00DEDD8A /* StopwatchView.swift */; };
 		A32024A72498B3B300E7B3F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024A62498B3B300E7B3F9 /* AppDelegate.swift */; };
 		A32024A92498B3B300E7B3F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024A82498B3B300E7B3F9 /* SceneDelegate.swift */; };
 		A32024AB2498B3B300E7B3F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024AA2498B3B300E7B3F9 /* ContentView.swift */; };
@@ -15,6 +18,11 @@
 		A32024B32498B3BB00E7B3F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A32024B12498B3BB00E7B3F9 /* LaunchScreen.storyboard */; };
 		A32024BE2498B3BB00E7B3F9 /* SwiftUIPracticeAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024BD2498B3BB00E7B3F9 /* SwiftUIPracticeAppTests.swift */; };
 		A32024C92498B3BB00E7B3F9 /* SwiftUIPracticeAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024C82498B3BB00E7B3F9 /* SwiftUIPracticeAppUITests.swift */; };
+		A32024D9249B39B800E7B3F9 /* Memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32024D8249B39B800E7B3F9 /* Memo.swift */; };
+		A3A0513224A0E9D20033E000 /* MapViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A0513124A0E9D20033E000 /* MapViewTest.swift */; };
+		A3A0513524A1E3AD0033E000 /* NumberTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A0513424A1E3AD0033E000 /* NumberTextField.swift */; };
+		A3A0513724A1E4E30033E000 /* CountDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A0513624A1E4E30033E000 /* CountDownView.swift */; };
+		A3A0513C24A21C0D0033E000 /* FortuneTellingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A0513B24A21C0D0033E000 /* FortuneTellingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +43,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A30F582B249E187200DEDD8A /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		A30F586D249EE9D100DEDD8A /* StopwatchClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StopwatchClass.swift; sourceTree = "<group>"; };
+		A30F586F249EE9FC00DEDD8A /* StopwatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchView.swift; sourceTree = "<group>"; };
 		A32024A32498B3B300E7B3F9 /* SwiftUIPracticeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPracticeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A32024A62498B3B300E7B3F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A32024A82498B3B300E7B3F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +60,11 @@
 		A32024C42498B3BB00E7B3F9 /* SwiftUIPracticeAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIPracticeAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A32024C82498B3BB00E7B3F9 /* SwiftUIPracticeAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeAppUITests.swift; sourceTree = "<group>"; };
 		A32024CA2498B3BB00E7B3F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A32024D8249B39B800E7B3F9 /* Memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo.swift; sourceTree = "<group>"; };
+		A3A0513124A0E9D20033E000 /* MapViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewTest.swift; sourceTree = "<group>"; };
+		A3A0513424A1E3AD0033E000 /* NumberTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberTextField.swift; sourceTree = "<group>"; };
+		A3A0513624A1E4E30033E000 /* CountDownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDownView.swift; sourceTree = "<group>"; };
+		A3A0513B24A21C0D0033E000 /* FortuneTellingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortuneTellingView.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +118,9 @@
 				A32024A62498B3B300E7B3F9 /* AppDelegate.swift */,
 				A32024A82498B3B300E7B3F9 /* SceneDelegate.swift */,
 				A32024AA2498B3B300E7B3F9 /* ContentView.swift */,
+				A32024D8249B39B800E7B3F9 /* Memo.swift */,
+				A3A0513324A1DC680033E000 /* Timer */,
+				A3A0513A24A216F20033E000 /* Fortune */,
 				A32024AC2498B3BB00E7B3F9 /* Assets.xcassets */,
 				A32024B12498B3BB00E7B3F9 /* LaunchScreen.storyboard */,
 				A32024B42498B3BB00E7B3F9 /* Info.plist */,
@@ -134,6 +153,27 @@
 				A32024CA2498B3BB00E7B3F9 /* Info.plist */,
 			);
 			path = SwiftUIPracticeAppUITests;
+			sourceTree = "<group>";
+		};
+		A3A0513324A1DC680033E000 /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				A30F582B249E187200DEDD8A /* TimerView.swift */,
+				A3A0513624A1E4E30033E000 /* CountDownView.swift */,
+				A3A0513424A1E3AD0033E000 /* NumberTextField.swift */,
+				A30F586F249EE9FC00DEDD8A /* StopwatchView.swift */,
+				A30F586D249EE9D100DEDD8A /* StopwatchClass.swift */,
+			);
+			path = Timer;
+			sourceTree = "<group>";
+		};
+		A3A0513A24A216F20033E000 /* Fortune */ = {
+			isa = PBXGroup;
+			children = (
+				A3A0513B24A21C0D0033E000 /* FortuneTellingView.swift */,
+				A3A0513124A0E9D20033E000 /* MapViewTest.swift */,
+			);
+			path = Fortune;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,9 +307,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A30F586E249EE9D100DEDD8A /* StopwatchClass.swift in Sources */,
 				A32024A72498B3B300E7B3F9 /* AppDelegate.swift in Sources */,
+				A3A0513524A1E3AD0033E000 /* NumberTextField.swift in Sources */,
 				A32024A92498B3B300E7B3F9 /* SceneDelegate.swift in Sources */,
 				A32024AB2498B3B300E7B3F9 /* ContentView.swift in Sources */,
+				A3A0513C24A21C0D0033E000 /* FortuneTellingView.swift in Sources */,
+				A30F582C249E187200DEDD8A /* TimerView.swift in Sources */,
+				A30F5870249EE9FC00DEDD8A /* StopwatchView.swift in Sources */,
+				A32024D9249B39B800E7B3F9 /* Memo.swift in Sources */,
+				A3A0513724A1E4E30033E000 /* CountDownView.swift in Sources */,
+				A3A0513224A0E9D20033E000 /* MapViewTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
